@@ -1,2 +1,2 @@
 # BachelorTestEnvironment
- Unity environment for Carolo Cup map 
+ Unity environment for CV Line Detection Testing
